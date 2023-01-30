@@ -47,6 +47,7 @@
 	},
 	"dependencies": {
 		"@firebase/app-types": "^0.8.1",
+		"@jridgewell/sourcemap-codec": "^1.4.14",
 		"@tailwindcss/aspect-ratio": "^0.4.2",
 		"@tailwindcss/forms": "^0.5.3",
 		"@tailwindcss/typography": "^0.5.8",
