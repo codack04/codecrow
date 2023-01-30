@@ -9,7 +9,8 @@
 	export let heroText: string, poweredByIcon: string
 </script>
 
-<div class="bg-hero bg-cover bg-no-repeat bg-[#25252A] relative overflow-hidden">
+<div
+	class="bg-[url('$lib/assets/images/network-bg.png')] bg-cover bg-no-repeat bg-[#25252A] relative overflow-hidden">
 	<div
 		class="container relative space-y-20 mb-20 sm:space-y-24 sm:my-24 lg:space-y-32 lg:my-32 ml-auto mr-auto">
 		<div class="relative pb-10 pl-[54px] pt-24">
