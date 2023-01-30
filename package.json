@@ -57,5 +57,5 @@
 		"nprogress": "^0.2.0",
 		"playwright-e2e-coverage-report": "^1.0.20",
 		"theme-change": "^2.2.0"
-	}
+	} 
 }
